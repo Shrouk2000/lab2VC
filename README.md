@@ -42,4 +42,5 @@ list with information ==> git tag -n
  2. remote ==> git push origin --delete v1.0
 
  
-![alt text](./Un
+![alt text](./Untitled-1.jpeg)
+
